@@ -1,5 +1,5 @@
 --> Merhaba ben Ferhat İşler . Adana Alparslan Türkeş Bilim ve teknolojı Ünivresitesi 3. sınıf ögrencisiyim . 
-:computer: Front-end ve Mobil yazılm alanlarında kendim geliştiriyorum . Ögrenmeye açıgım ve yeni teknolojileri yakından takip ediyorum .
+-:computer: Front-end ve Mobil yazılm alanlarında kendim geliştiriyorum . Ögrenmeye açıgım ve yeni teknolojileri yakından takip ediyorum .
 -->Şuan aktif olarak Java - Kotlin ögreniyorum  ve Javascript HTML5 CSS  alanında kendim geliştiriyorum . 
 - ⚡ Fun fact:Yazılımdan zaman buldukça video editleri ile ugraşıyorum.
 
