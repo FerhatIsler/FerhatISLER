@@ -1,4 +1,4 @@
-:raised_hand_with_fingers_splayed: Merhaba ben Ferhat İşler . Adana Alparslan Türkeş Bilim ve teknolojı Ünivresitesi 3. sınıf ögrencisiyim . 
+:raised_hand_with_fingers_splayed: Merhaba ben Ferhat İşler . Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi 3. sınıf ögrencisiyim . 
 
 -:computer: Front-end ve Mobil yazılm alanlarında kendim geliştiriyorum . Ögrenmeye açıgım ve yeni teknolojileri yakından takip ediyorum.
 
